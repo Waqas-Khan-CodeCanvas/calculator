@@ -1,32 +1,3 @@
-# Calculator
-
-Welcome to the advanced calculator made in Python! This calculator has the ability to solve complex problems with ease. Below are the features and instructions on how to use it.
-
-## Features
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Exponentiation
-- Modulus
-- Square Root
-
-## How to Use
-
-1. **Addition**: Adds two numbers.
-2. **Subtraction**: Subtracts the second number from the first number.
-3. **Multiplication**: Multiplies two numbers.
-4. **Division**: Divides the first number by the second number. (Note: Division by zero is not allowed.)
-5. **Exponentiation**: Raises the first number to the power of the second number.
-6. **Modulus**: Finds the remainder when the first number is divided by the second number.
-7. **Square Root**: Finds the square root of a number. (Note: Square root of a negative number is not allowed.)
-
-## Running the Calculator
-
-To run the calculator, simply execute the Python script. Follow the on-screen instructions to perform various mathematical operations.
-
-```python
 import math
 
 def add(x, y):
@@ -99,6 +70,3 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
-```
-
-Enjoy using the advanced calculator!
